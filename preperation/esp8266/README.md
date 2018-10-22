@@ -22,3 +22,7 @@ We need to install additional Arduino IDE drivers and examples files to run the 
 5. Restart Arduino IDE
 6. Under `Tools > Board` choose your board type `NodeMCU 0.9 (ESP-12-Module)` or `NodeMCU 1.0 (ESP-12E-Module)`
 7. Choose port `/dev/cu.SLAB_USBtoUART`
+
+
+## Troubleshooting
+Look here: https://www.mikrocontroller-elektronik.de/nodemcu-esp8266-tutorial-wlan-board-arduino-ide/
