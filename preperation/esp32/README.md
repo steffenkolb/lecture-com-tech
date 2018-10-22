@@ -19,7 +19,7 @@ We need to install additional Arduino IDE drivers and examples files to run the 
 7. Choose port `/dev/cu.SLAB_USBtoUART`
 
 
-## Troubleshoot A
+## Troubleshoot
 Follow installation instruction here:
 https://github.com/espressif/arduino-esp32#installation-instructions
 
