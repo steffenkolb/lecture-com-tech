@@ -15,7 +15,7 @@ We need to install additional Arduino IDE drivers and examples files to run the 
 
 4. Press `Ok`
 5. Restart Arduino IDE
-6. Under `Tools > Board` choose your board type `NodeMCU 0.9 (ESP-12-Module)` or `NodeMCU 1.0 (ESP-12E-Module)`
+6. Under `Tools > Board` choose your board type `ESP32 Dev Module`
 7. Choose port `/dev/cu.SLAB_USBtoUART`
 
 ## Download Arduino Driver (optional - if above does not work)
