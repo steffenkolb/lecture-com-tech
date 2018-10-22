@@ -18,7 +18,12 @@ We need to install additional Arduino IDE drivers and examples files to run the 
 6. Under `Tools > Board` choose your board type `ESP32 Dev Module`
 7. Choose port `/dev/cu.SLAB_USBtoUART`
 
-## Download Arduino Driver (optional - if above does not work)
+
+## Troubleshoot A
+Follow installation instruction here:
+https://github.com/espressif/arduino-esp32#installation-instructions
+
+### Short version
 
 1. Follow the instructions on: https://github.com/espressif/arduino-esp32/blob/master/docs/arduino-ide/mac.md
 
