@@ -33,7 +33,7 @@ void loop() {
 
     // Specify the URL
     http.begin(url);
-    Serial.print("Trying to GET url: ");
+    Serial.print("Trying to POST to url: ");
     Serial.println(url);
     
     // Make the request
