@@ -1,0 +1,2 @@
+#!/bin/bash
+docker run -it -p 1880:1880 --network iot -v ~/Freelance/Projekte/HfG\ Schwäbisch\ Gmünd/Komm-Tech/lecture-com-tech/lessons/03\ Hackathon/nodered/data:/data --name nodered nodered/node-red-docker
