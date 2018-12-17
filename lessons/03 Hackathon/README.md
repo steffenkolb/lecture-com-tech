@@ -35,9 +35,9 @@ For starters I suggest using any one of the following Elegoo sensors / actors as
 ## Important information for the boards
 
 The ESP boards are not exchangeble and pins do not reflect Arduino pins perfectly.
-I suggest to use the following pins for usage with sensors / actors:
+I suggest to use the following pins with sensors / actors:
 
-### ESP32 (espressif)
+### ESP 32 (espressif)
 - Digital:
     - Id in code: 16
     - Position on board: G16
