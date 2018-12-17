@@ -21,6 +21,7 @@ For starters I suggest using any one of the following Elegoo sensors / actors as
 - Avoidance
 
 **Actors:**
+
 *Important:* Do not forget to change the pin mode when trying to work with actors: `pinMode(2, OUTPUT);`
 - Simple LED
     - Guide ESP32: https://www.instructables.com/id/Blinking-an-LED-With-ESP32/
