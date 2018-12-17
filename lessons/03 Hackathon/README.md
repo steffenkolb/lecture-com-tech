@@ -21,6 +21,9 @@ Sensors:
 
 Actors:
 **Important:** Do not forget to change the pin mode when trying to work with actors: `pinMode(2, OUTPUT);`
+- Simple LED
+    - Guide ESP32: https://www.instructables.com/id/Blinking-an-LED-With-ESP32/
+    - Guide ESP8266: https://www.instructables.com/id/NodeMCU-Basic-Project-Blink-a-LED/
 - RGB LED
 - TWO Color LED
 - 7 Color Flash
