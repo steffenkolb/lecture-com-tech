@@ -5,22 +5,23 @@ It is time to connect sensors and actors to your boards an communicate via MQTT.
 
 ## Exercises
 
-Choose a board (eitehr ESP32 or ESP8266) and one sensor or actor.
-For starters I suggest using any one of the following Elegoo sensors / actors.
-**Important**: You will **not** need any resistors. They are already soldered onto the sensor-boards.
+Choose a board (either ESP32 or ESP8266) and one sensor or actor.
 
-Sensors:
+For starters I suggest using any one of the following Elegoo sensors / actors as you will **not** need any resistors. They are already soldered onto the sensor-boards.
+
+**Sensors:**
+
 - DHT11 Humidity and Temperature Sensor (digital)
     - Important: Install Arduino library "DHT sensor library" and "Adafruit Unified Sensor" by Adafruit
     - Guide ESP32: https://lastminuteengineers.com/esp32-dht11-dht22-web-server-tutorial/
-    - guide ESP8266: https://www.instructables.com/id/Interface-DHT11-Humidity-Sensor-Using-NodeMCU/
+    - Guide ESP8266: https://www.instructables.com/id/Interface-DHT11-Humidity-Sensor-Using-NodeMCU/
 - Photoresistor (analog)
     - Guide ESP32: https://www.instructables.com/id/Interfacing-Photoresistor-With-ESP32/
     - Guide ESP8266: https://www.instructables.com/id/NodeMCU-With-LDR/
 - Avoidance
 
-Actors:
-**Important:** Do not forget to change the pin mode when trying to work with actors: `pinMode(2, OUTPUT);`
+**Actors:**
+*Important:* Do not forget to change the pin mode when trying to work with actors: `pinMode(2, OUTPUT);`
 - Simple LED
     - Guide ESP32: https://www.instructables.com/id/Blinking-an-LED-With-ESP32/
     - Guide ESP8266: https://www.instructables.com/id/NodeMCU-Basic-Project-Blink-a-LED/
